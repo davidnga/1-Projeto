@@ -1,0 +1,196 @@
+body {
+    background-color: rgb(234, 246, 248);
+}
+
+
+.diV1 {
+    background-color: rgb(161, 233, 255);
+    width: 100%;
+    position: absolute;
+    top : 0;
+    right:0%;
+    font-family: 'Sacramento', cursive;
+    font-size: 115%;
+}
+.name {
+    position: relative;
+    color: #66BFBF;
+    margin: 0% auto 0 39%;
+    font-size: 400%;
+}
+.montain {
+    position: relative;
+    left: 29%;
+    width: 40%;
+    top: 19%;
+}
+.cloud1 {
+    position: absolute;
+    left: 20%;
+}
+.cloud2 {
+    position: absolute;
+    left: 65%;
+    top: 30%;
+}
+
+
+.diV2 {
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-size: 120%;
+    position: absolute;
+    top: 70%;
+    left: 3%;
+    
+}
+
+.devImage {
+    width: 35%;
+}
+
+.div3 {
+    position: absolute;
+    margin: -3% -100% 0% 48%;
+
+}
+.div4 {
+    position: absolute;
+    top: 12.1%;
+    left: 75%;
+    
+}
+.p1 {
+    position: relative;
+    margin: -35% -80% 1% 45%;
+    font-family: 'Pacifico', cursive;
+    color: #4c6b67;
+    font-size: 130%;
+}
+.div5 {
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-size: 109%;
+    position: absolute;
+    position: absolute;
+    margin: -16% -100% 90% 150%;
+}
+.p2 {
+    position: relative;
+    margin: 4% -100% -6% 0%;
+    font-family: 'Pacifico', cursive;
+    color: #4c6b67;
+    font-size: 109%;
+}
+.div6 {
+    position: relative;
+    margin: -70% -100% 0% 70%;
+}
+
+
+
+
+.diV3 {
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-size: 103%;
+    margin: 40% auto 0% 0%;
+}
+.devImage1 {
+    width: 35%;
+}
+.p3 {
+    position: absolute;
+    margin: -36% -80% 0% 46%;
+    font-family: 'Pacifico', cursive;
+    color: #4c6b67;
+    font-size: 130%;
+}
+.div7 {
+    position: absolute;
+    margin: -20% -60% auto 42%;
+}
+.imgT {
+    width: 15%;
+    float: left;
+    margin-right: 5%;
+}
+
+.div9 {
+    position: absolute;
+    margin: -20% -60% auto 100%;
+}
+.imgT1 {
+    width: 20%;
+    float: left;
+    margin-right: 8%;
+}
+
+
+
+.diV4 {
+    position: absolute;
+    width: 100.4%;
+    background-color: rgb(109, 209, 201);
+    margin: 49% auto 100% -1%;
+    line-height: 2;
+
+}
+#p4 {
+    font-family: 'Pacifico', cursive;
+    font-size: 125%;
+    margin: auto auto auto 14%;
+}
+.div10 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto auto auto 30%;
+}
+
+
+
+.diV5 {
+    margin: 89% auto auto -1%;
+    font-size: 130%;
+    background-color: #4da896;
+}
+.btn {
+    background: #1fcfc0;
+    background-image: -webkit-linear-gradient(top, #1fcfc0, #1796e6);
+    background-image: -moz-linear-gradient(top, #1fcfc0, #1796e6);
+    background-image: -ms-linear-gradient(top, #1fcfc0, #1796e6);
+    background-image: -o-linear-gradient(top, #1fcfc0, #1796e6);
+    background-image: linear-gradient(to bottom, #1fcfc0, #1796e6);
+    -webkit-border-radius: 35;
+    -moz-border-radius: 35;
+    border-radius: 35px;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    border: solid #ffffff 0px;
+    text-decoration: none;
+    margin: auto auto auto 9%;
+  }
+  
+  .btn:hover {
+    background: #151617;
+    background-image: -webkit-linear-gradient(top, #151617, #328070);
+    background-image: -moz-linear-gradient(top, #151617, #328070);
+    background-image: -ms-linear-gradient(top, #151617, #328070);
+    background-image: -o-linear-gradient(top, #151617, #328070);
+    background-image: linear-gradient(to bottom, #151617, #328070);
+    text-decoration: none;
+  }
+#p5 {
+    position: absolute;
+    margin: 1% auto auto 44%;
+    font-size: 200%;
+    font-family: 'Sacramento', cursive;
+}
+
+.hr1 {
+    position: absolute;
+    margin: 10% auto auto 0%
+}
+.udiv {
+margin: auto auto auto 40%;
+font-family: 'Pacifico', cursive;
+margin-top: 10%;
+}
